@@ -13,10 +13,5 @@ namespace Zp_School_Website.Controllers
         {
             return View();
         }
-
-        public ActionResult Index1()
-        {
-            return View();
-        }
     }
 }
